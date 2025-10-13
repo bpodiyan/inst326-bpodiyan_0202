@@ -13,3 +13,7 @@ During this week I used AI tools to support both my work and extracurricular res
 Week 4
 
 During this week I was able to use AI in practical and academic ways that have saved me time and allowed me to be productive in coursework. I was able to use AI for difficult technical questions in my work revolving around specific software and hardware issues. I was also able to use AI to organize specific thoughts and make sure certain answers addressed parts of a question. Overall, AI allowed me to stay productive and understand challenging material.
+
+Week 5
+
+During this week I was able to use AI for a mix of academic and personal work. At my work in the CS Department I was able to use AI to review error messages and find clear explanations for why my code was not recognized in the terminal when trying to open a project in VS Code. AI walked me through installing and configuring the VS Code command line tool correctly which saved time during my work session. I also used Ai to draft email messages to professionals. It helped me strike the right tone, professional, concise, and appreciative. Overall, it made a huge difference in allowing my thoughts to stay organized, troubleshoot issues, and communicate more effectively. 
