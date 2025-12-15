@@ -41,3 +41,7 @@ During this week I used AI to support my coursework and coding tasks. I asked AI
 Week 12
 
 During this week I used AI in several ways to support my academic coursework and projects. Earlier in the week, I asked AI to clarify some concepts for one of my courses and to generate clean versions of tables. I also used AI to revise responses to sound more professional and polished. Lastly, I asked AI for guidance on troubleshooting a React repository I forked. It walked me through various steps and helped me continue to work on my project. Overall, I found AI useful this week as it helped me with writing, organization, troubleshooting code, and making my workflow much faster and easier this week. 
+
+Week 13
+
+During this week I used AI as a support tool to help me stay organized. I used AI to draft and revise professional emails related to class and personal work. Additionally I used AI to assist with general clarification questions throughout the week, such as understanding assignment instructions and figuring out technical steps. All of this helped me focus more on completing the actual work rather than getting stuck on logistics. 
